@@ -71,9 +71,15 @@ a:hover {
   bottom: 0;
   width: 100%;
   background: rgba(255, 255, 255, 0.5);
-  color: white;
+  color: black;
   text-align: center;
-  height: 100px;
+  height: 170px;
+}
+
+.tarea {
+  font-size: 30px;
+  margin: 0;
+  height: 30px;
 }
 
 .launchbutton {

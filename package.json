@@ -70,7 +70,8 @@
     "minecraft-launcher-core": "^3.16.18",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-router-dom": "^6.8.1"
+    "react-router-dom": "^6.8.1",
+    "yauzl": "^2.10.0"
   },
   "devDependencies": {
     "@electron/notarize": "^1.2.3",
